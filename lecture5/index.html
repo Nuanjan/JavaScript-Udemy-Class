@@ -1,53 +1,12 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Untitled Document</title>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Section 5: Advanced JavaScript: Objects and Functions</title>
+    </head>
 
-
-<script language ="javascript">
-
-/* this is Example 1; in this example the array values
-   are manually assigned by the coder to an index position
-*/
-
-function inputVal() {
-
- var promtState = parseInt(prompt("Input a number between 0 and 5",0));
- 
- 
-ste = new Array("ME","VT","NH","MA","RI","CT");
-   
-     
-	   if(promtState == 0){
-           document.getElementById("state").innerHTML = "You click the state " + ste[0];
-       } else if (promtState == 1){
-           document.getElementById("state").innerHTML = "You click the state " + ste[1];
-       } else if (promtState == 2){
-           document.getElementById("state").innerHTML = "You click the state " + ste[2];
-       } else if (promtState == 3){
-           document.getElementById("state").innerHTML = "You click the state " + ste[3];
-       }else if (promtState == 4){
-           document.getElementById("state").innerHTML = "You click the state " + ste[4];
-       }else if (promtState == 5){
-           document.getElementById("state").innerHTML = "You click the state " + ste[5];
-       }else 
-           document.write("not valid number! try again");
-	 
-}
-/* this is Example 2; in this example the array values
-   are automatically assigned by the processor to an index position
-*/
-
-
-
-</script>
-
-</head>
-
-<body>
-
-<button onclick="inputVal()">Click!</button>
-<p id= "state" style="font-size: 24px"></p>
-</body>
+    <body>
+        <h1>Section 5: Advanced JavaScript: Objects and Functions</h1>
+        <script src="script.js"></script>
+    </body>
 </html>
