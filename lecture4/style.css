@@ -1,0 +1,154 @@
+body{
+    background-color: #212730;
+    color: white;
+    text-align: center;
+}
+#btn1{
+    border-radius: 15px;
+    height: 50px;
+    font-size: 24px;
+    padding: 10px;
+    color: white;
+    background-color: #189de4;
+    border-color: white;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#btn2{
+    border-radius: 10px;
+    height: 50px;
+    font-size: 24px;
+    padding: 10px;
+    color: white;
+    background-color: #14648c;
+    border-color: white;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#btn3{
+    border-radius: 5px;
+    height: 50px;
+    font-size: 24px;
+    padding: 10px;
+    color: white;
+    background-color: #00316e;
+    border-color: white;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#btn4{
+   
+    height: 50px;
+    font-size: 24px;
+    padding: 10px;
+    color: white;
+    background-color: #001b3a;
+    border-color: white;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+table { 
+color: black;
+width: 80%;
+border-spacing: 5px;
+margin-left: 75px;
+table-layout: fixed;
+width: 80%;
+
+    
+}
+
+table tr {
+    
+    background-color: white;
+    opacity: 80%;
+    
+    
+
+}
+
+.tbl-1{
+    color: black;
+width: 80%;
+border-spacing: 5px;
+margin-left: 75px;
+
+
+   
+}  
+
+.tbl-2{
+    color: black;
+width: 80%;
+border-spacing: 5px;
+margin-left: 75px;
+  
+} 
+.tbl-3{
+    color: black;
+width: 80%;
+border-spacing: 5px;
+margin-left: 75px;
+
+} 
+.tbl-4{
+    color: black;
+width: 80%;
+border-spacing: 5px;
+margin-left: 75px;
+
+}  
+#btn-back1{
+    border-radius: 15px;
+    height: 50px;
+    font-size: 24px;
+    padding: 10px;
+    color: white;
+    background-color: #189de4;
+    border-color: white;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#btn-back2{
+    border-radius: 10px;
+    height: 50px;
+    font-size: 24px;
+    padding: 10px;
+    color: white;
+    background-color: #14648c;
+    border-color: white;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#btn-back3{
+    border-radius: 5px;
+    height: 50px;
+    font-size: 24px;
+    padding: 10px;
+    color: white;
+    background-color: #00316e;
+    border-color: white;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#btn-back4{
+    height: 50px;
+    font-size: 24px;
+    padding: 10px;
+    color: white;
+    background-color: #001b3a;
+    border-color: white;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
